@@ -1,4 +1,4 @@
-# DL_coursera_1236
+# DL_coursera_specialization
 
 
 Logistic Regression with a Neural Network mindset¶
